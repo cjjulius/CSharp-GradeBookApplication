@@ -3,7 +3,7 @@ using Xunit;
 
 namespace GradeBookTests
 {
-    public class MakeBaseGradeBookAbstractTests
+    public abstract class MakeBaseGradeBookAbstractTests
     {
         /// <summary>
         ///     All tests related to the "Make BaseGradeBook Abstract" Task.
